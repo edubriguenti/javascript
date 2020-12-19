@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 2,
+      "id": 1,
       "nome": "Ana Torre",
       "ativo": true,
       "email": "a@a.com",
@@ -41,6 +41,38 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Eduardo",
+      "ativo": true,
+      "email": "edubriguenti@gmail.com",
+      "role": 2,
+      "createdAt": "2020-09-01T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "nome": "Eduardo",
+      "ativo": true,
+      "email": "edubriguenti@gmail.com",
+      "role": 2,
+      "createdAt": "2020-09-01T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "nome": "Eduardo",
+      "ativo": true,
+      "email": "edubriguenti@gmail.com",
+      "role": 3,
+      "createdAt": "2020-09-01T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "nome": "Eduardo",
+      "ativo": true,
+      "email": "edubriguenti@gmail.com",
+      "role": 3,
+      "createdAt": "2020-09-01T00:00:00.000Z",
+      "id": 11
     }
   ],
   "roles": [
